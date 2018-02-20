@@ -1,0 +1,14 @@
+d=15
+e=25
+f=50
+g=90
+t=40
+u=3
+y=2
+print(a+b)
+print(a/c)
+print(a<c)
+print(a>c)
+print(a-c)
+print(a**c)
+print(a*c)
